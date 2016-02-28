@@ -1,0 +1,14 @@
+{
+  "name": "random_tweet",
+  "version": "1.0.0",
+  "description": "A simple NodeJS CLI script that fetches a random tweet for the input keyword.",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "oauth": "^0.9.14"
+  },
+  "author": "Kapeel Sable",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/npm/npm.git"
+  }
+}
